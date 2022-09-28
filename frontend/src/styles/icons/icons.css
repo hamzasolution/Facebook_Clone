@@ -1,4 +1,4 @@
-.friends_request_icon {
+.friends_requests_icon {
   background-image: url(../../../public/icons/icons11.png);
   background-position: 0px -117px;
   background-size: auto;
@@ -15,8 +15,8 @@
   width: 20px;
   height: 20px;
   background-repeat: no-repeat;
-  display: inline-block;
   -webkit-filter: invert(10%);
+  display: inline-block;
 }
 .all_friends_icon {
   background-image: url(../../../public/icons/icons11.png);
@@ -25,18 +25,18 @@
   width: 20px;
   height: 20px;
   background-repeat: no-repeat;
-  display: inline-block;
   -webkit-filter: invert(10%);
+  display: inline-block;
 }
 .birthdays_icon {
   background-image: url(../../../public/icons/icons11.png);
-  background-position: 0px -130px;
+  background-position: 0px -138px;
   background-size: auto;
   width: 20px;
   height: 20px;
   background-repeat: no-repeat;
-  display: inline-block;
   -webkit-filter: invert(10%);
+  display: inline-block;
 }
 .m_post_icon {
   background-image: url(../../../public/icons/icons12.png);
@@ -94,7 +94,7 @@
 }
 .m_event_icon {
   background-image: url(../../../public/icons/icons14.png);
-  background-position: 0px -626px;
+  background-position: 0px -647px;
   background-size: auto;
   width: 20px;
   height: 20px;
@@ -139,7 +139,7 @@
 }
 .help_filled_icon {
   background-image: url(../../../public/icons/icons17.png);
-  background-position: -0px -487px;
+  background-position: 0px -487px;
   background-size: auto;
   width: 20px;
   height: 20px;
@@ -148,7 +148,7 @@
 }
 .dark_filled_icon {
   background-image: url(../../../public/icons/icons17.png);
-  background-position: -0px -340px;
+  background-position: 0px -340px;
   background-size: auto;
   width: 20px;
   height: 20px;
@@ -168,118 +168,15 @@
   background-image: url(../../../public/icons/icons18.png);
   background-position: -83px -13px;
   background-size: auto;
-  width: 20px;
-  height: 20px;
+  width: 24px;
+  height: 24px;
   background-repeat: no-repeat;
   display: inline-block;
   filter: invert(50%);
 }
 .privacy_checkup_icon {
   background-image: url(../../../public/icons/icons15.png);
-  background-position: 0px -46px;
-  background-size: auto;
-  width: 20px;
-  height: 20px;
-  background-repeat: no-repeat;
-  display: inline-block;
-}
-.addPhoto_icon {
-  background-image: url("../../../public/icons/icons7.png");
-  background-position: -25px -292px;
-  background-size: auto;
-  width: 20px;
-  height: 20px;
-  background-repeat: no-repeat;
-  display: inline-block;
-}
-.phone_icon {
-  background-image: url("../../../public/icons/icons7.png");
-  background-position: -25px -271px;
-  background-size: auto;
-  width: 20px;
-  height: 20px;
-  background-repeat: no-repeat;
-  display: inline-block;
-  filter: invert(20%);
-}
-.delete_icon {
-  background-image: url("../../../public/icons/icon1.png");
-  background-position: 0px -399px;
-  background-size: auto;
-  width: 20px;
-  height: 20px;
-  background-repeat: no-repeat;
-  display: inline-block;
-}
-.date_icon {
-  background-image: url("../../../public/icons/icon4.png");
   background-position: 0px -67px;
-  background-size: auto;
-  width: 20px;
-  height: 20px;
-  background-repeat: no-repeat;
-  display: inline-block;
-}
-.refresh_icon {
-  background-image: url("../../../public/icons/refresh.png");
-  background-position: 0px 0px;
-  background-size: auto;
-  width: 20px;
-  height: 20px;
-  background-repeat: no-repeat;
-  display: inline-block;
-}
-.archive_icon {
-  background-image: url("../../../public/icons/icons1.png");
-  background-position: 0px -84px;
-  background-size: auto;
-  width: 20px;
-  height: 20px;
-  background-repeat: no-repeat;
-  display: inline-block;
-}
-.trash_icon {
-  background-image: url("../../../public/icons/icons2.png");
-  background-position: 0px -799px;
-  background-size: auto;
-  width: 20px;
-  height: 20px;
-  background-repeat: no-repeat;
-  display: inline-block;
-}
-.like_icon {
-  background-image: url("../../../public/icons/icons5.png");
-  background-position: 0px -243px;
-  background-size: auto;
-  width: 10px;
-  height: 10px;
-  background-repeat: no-repeat;
-  display: inline-block;
-  filter: invert(40%);
-}
-.comment_icon {
-  background-image: url("../../../public/icons/icons5.png");
-  background-position: 0px -205px;
-  background-size: auto;
-  width: 10px;
-  height: 10px;
-  background-repeat: no-repeat;
-  display: inline-block;
-  filter: invert(40%);
-}
-.share_icon {
-  background-image: url("../../../public/icons/icons5.png");
-  background-position: 0px -262px;
-  background-size: auto;
-  width: 10px;
-  height: 10px;
-  background-repeat: no-repeat;
-  display: inline-block;
-  filter: invert(40%);
-}
-.news_icon {
-  background-image: url(../../../public/icons/icons21.png);
-  background-position: 0px -239px;
   background-size: auto;
   width: 20px;
   height: 20px;
@@ -304,9 +201,18 @@
   background-repeat: no-repeat;
   display: inline-block;
 }
+.news_icon {
+  background-image: url(../../../public/icons/icons21.png);
+  background-position: 0px -239px;
+  background-size: auto;
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
 .language_icon {
   background-image: url(../../../public/icons/icons22.png);
-  background-position: 0px -685px;
+  background-position: 0px -658px;
   background-size: auto;
   width: 20px;
   height: 20px;
@@ -319,175 +225,6 @@
   background-size: auto;
   width: 20px;
   height: 20px;
-  background-repeat: no-repeat;
-  display: inline-block;
-}
-.arrowDown_icon {
-  background-image: url("../../../public/icons/icons6.png");
-  background-position: -117px -130px;
-  background-size: auto;
-  width: 12px;
-  height: 12px;
-  background-repeat: no-repeat;
-  display: inline-block;
-}
-.emoji_icon_large {
-  background-image: url("../../../public/icons/icons7.png");
-  background-position: 0px -207px;
-  background-size: auto;
-  width: 24px;
-  height: 24px;
-  background-repeat: no-repeat;
-  display: inline-block;
-  filter: invert(40%);
-  cursor: pointer;
-}
-.emoji_icon {
-  background-image: url("../../../public/icons/icons5.png");
-  background-position: 0px -434px;
-  background-size: auto;
-  width: 16px;
-  height: 16px;
-  background-repeat: no-repeat;
-  display: inline-block;
-  filter: invert(40%);
-}
-.camera_icon {
-  background-image: url("../../../public/icons/icons5.png");
-  background-position: 0px -366px;
-  background-size: auto;
-  width: 16px;
-  height: 16px;
-  background-repeat: no-repeat;
-  display: inline-block;
-  filter: invert(40%);
-}
-.gif_icon {
-  background-image: url("../../../public/icons/icons5.png");
-  background-position: 0px -451px;
-  background-size: auto;
-  width: 16px;
-  height: 16px;
-  background-repeat: no-repeat;
-  display: inline-block;
-  filter: invert(40%);
-}
-.sticker_icon {
-  background-image: url("../../../public/icons/icons5.png");
-  background-position: 0px -460px;
-  background-size: auto;
-  width: 16px;
-  height: 16px;
-  background-repeat: no-repeat;
-  display: inline-block;
-  filter: invert(40%);
-}
-.embed_icon {
-  background-image: url("../../../public/icons/icons1.png");
-  background-position: 0px -126px;
-  background-size: auto;
-  width: 20px;
-  height: 20px;
-  background-repeat: no-repeat;
-  display: inline-block;
-}
-.copy_icon {
-  background-image: url("../../../public/icons/icons1.png");
-  background-position: 0px -126px;
-  background-size: auto;
-  width: 20px;
-  height: 20px;
-  background-repeat: no-repeat;
-  display: inline-block;
-}
-.save_icon {
-  background-image: url("../../../public/icons/icons1.png");
-  background-position: 0px -63px;
-  background-size: auto;
-  width: 20px;
-  height: 20px;
-  background-repeat: no-repeat;
-  display: inline-block;
-}
-.pin_icon {
-  background-image: url("../../../public/icons/icons1.png");
-  background-position: 0px -370px;
-  background-size: auto;
-  width: 20px;
-  height: 20px;
-  background-repeat: no-repeat;
-  display: inline-block;
-}
-.tag_icon {
-  background-image: url("../../../public/icons/icons7.png");
-  background-position: 0px -257px;
-  background-size: auto;
-  width: 24px;
-  height: 24px;
-  background-repeat: no-repeat;
-  display: inline-block;
-}
-.maps_icon {
-  background-image: url("../../../public/icons/icons8.png");
-  background-position: 0px -225px;
-  background-size: auto;
-  width: 24px;
-  height: 24px;
-  background-repeat: no-repeat;
-  display: inline-block;
-}
-.microphone_icon {
-  background-image: url("../../../public/icons/icons9.png");
-  background-position: 0px -100px;
-  background-size: auto;
-  width: 24px;
-  height: 24px;
-  background-repeat: no-repeat;
-  display: inline-block;
-}
-.upload_icon {
-  background-image: url(../../../public/icons/icons35.png);
-  background-position: 0px -126px;
-  background-size: auto;
-  width: 20px;
-  height: 20px;
-  background-repeat: no-repeat;
-  display: inline-block;
-  filter: invert(10%);
-}
-.lifeEvent_icon {
-  background-image: url(../../../public/icons/icons34.png);
-  background-position: -25px -250px;
-  background-size: auto;
-  width: 20px;
-  height: 20px;
-  background-repeat: no-repeat;
-  display: inline-block;
-}
-.plus_icon {
-  background-image: url(../../../public/icons/icons22.png);
-  background-position: -25px -1341px;
-  background-size: auto;
-  width: 16px;
-  height: 16px;
-  background-repeat: no-repeat;
-  display: inline-block;
-}
-.frame_icon {
-  background-image: url(../../../public/icons/icons31.png);
-  background-position: 0px -130px;
-  background-size: auto;
-  width: 16px;
-  height: 16px;
-  background-repeat: no-repeat;
-  display: inline-block;
-}
-.minus_icon {
-  background-image: url(../../../public/icons/icons33.png);
-  background-position: 0px -50px;
-  background-size: auto;
-  width: 16px;
-  height: 16px;
   background-repeat: no-repeat;
   display: inline-block;
 }
@@ -539,13 +276,271 @@
 }
 .ad_choices_icon {
   background-image: url(../../../public/icons/icons6.png);
-  background-position: 0px -126px;
+  background-position: 0 -126px;
   background-size: auto;
   width: 12px;
   height: 12px;
   background-repeat: no-repeat;
   display: inline-block;
   transform: translateY(1px);
+  -webkit-filter: invert(40%);
+}
+
+.pin_icon {
+  background-image: url("../../../public/icons/icons1.png");
+  background-position: 0px -378px;
+  background-size: auto;
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+.save_icon {
+  background-image: url("../../../public/icons/icons1.png");
+  background-position: 0px -63px;
+  background-size: auto;
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+.embed_icon {
+  background-image: url("../../../public/icons/icons1.png");
+  background-position: 0px -126px;
+  background-size: auto;
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+.copy_icon {
+  background-image: url("../../../public/icons/icons2.png");
+  background-position: 0px -568px;
+  background-size: auto;
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+.edit_icon {
+  background-image: url("../../../public/icons/icons2.png");
+  background-position: 0px -610px;
+  background-size: auto;
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+  display: inline-block;
+  -webkit-filter: invert(40%);
+}
+.turnOffNotifications_icon {
+  background-image: url("../../../public/icons/icons3.png");
+  background-position: 0px -138px;
+  background-size: auto;
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+.delete_icon {
+  background-image: url("../../../public/icons/icons1.png");
+  background-position: 0px -399px;
+  background-size: auto;
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+
+.date_icon {
+  background-image: url("../../../public/icons/icons4.png");
+  background-position: 0px -67px;
+  background-size: auto;
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+.refresh_icon {
+  background-image: url("../../../public/icons/refresh.png");
+  background-position: 0px 0px;
+  background-size: auto;
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+.archive_icon {
+  background-image: url("../../../public/icons/icons1.png");
+  background-position: 0px -84px;
+  background-size: auto;
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+.trash_icon {
+  background-image: url("../../../public/icons/icons2.png");
+  background-position: 0px -799px;
+  background-size: auto;
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+.like_icon {
+  background-image: url("../../../public/icons/icons5.png");
+  background-position: 0 -243px;
+  background-size: auto;
+  width: 18px;
+  height: 18px;
+  background-repeat: no-repeat;
+  display: inline-block;
+  filter: invert(40%);
+}
+.comment_icon {
+  background-image: url("../../../public/icons/icons5.png");
+  background-position: 0 -205px;
+  background-size: auto;
+  width: 18px;
+  height: 18px;
+  background-repeat: no-repeat;
+  display: inline-block;
+  filter: invert(40%);
+}
+.share_icon {
+  background-image: url("../../../public/icons/icons5.png");
+  background-position: 0 -262px;
+  background-size: auto;
+  width: 18px;
+  height: 18px;
+  background-repeat: no-repeat;
+  display: inline-block;
+  filter: invert(40%);
+}
+.emoji_icon {
+  background-image: url("../../../public/icons/icons5.png");
+  background-position: 0px -434px;
+  background-size: auto;
+  width: 16px;
+  height: 16px;
+  background-repeat: no-repeat;
+  display: inline-block;
+  filter: invert(40%);
+}
+.camera_icon {
+  background-image: url("../../../public/icons/icons5.png");
+  background-position: 0px -366px;
+  background-size: auto;
+  width: 16px;
+  height: 16px;
+  background-repeat: no-repeat;
+  display: inline-block;
+  filter: invert(40%);
+}
+.gif_icon {
+  background-image: url("../../../public/icons/icons5.png");
+  background-position: 0px -451px;
+  background-size: auto;
+  width: 16px;
+  height: 16px;
+  background-repeat: no-repeat;
+  display: inline-block;
+  filter: invert(40%);
+}
+.sticker_icon {
+  background-image: url("../../../public/icons/icons5.png");
+  background-position: 0px -468px;
+  background-size: auto;
+  width: 16px;
+  height: 16px;
+  background-repeat: no-repeat;
+  display: inline-block;
+  filter: invert(40%);
+}
+.exit_icon {
+  background-image: url("../../../public/icons/icons6.png");
+  background-position: -126px -71px;
+  background-size: auto;
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+  display: inline-block;
+  filter: invert(40%);
+}
+.edit_icon {
+  background-image: url("../../../public/icons/icons18.png");
+  background-position: -34px -109px;
+  background-size: auto;
+  width: 16px;
+  height: 16px;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+.arrowDown_icon {
+  background-image: url("../../../public/icons/icons6.png");
+  background-position: -117px -130px;
+  background-size: auto;
+  width: 12px;
+  height: 12px;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+.emoji_icon_large {
+  height: 24px;
+  width: 24px;
+  background-image: url("../../../public/icons/icons7.png");
+  background-position: 0px -207px;
+  background-size: auto;
+  background-repeat: no-repeat;
+  display: inline-block;
+  filter: invert(40%);
+  cursor: pointer;
+}
+.tag_icon {
+  height: 24px;
+  width: 24px;
+  background-image: url("../../../public/icons/icons7.png");
+  background-position: 0px -257px;
+  background-size: auto;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+.maps_icon {
+  height: 24px;
+  width: 24px;
+  background-image: url("../../../public/icons/icons8.png");
+  background-position: 0px -225px;
+  background-size: auto;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+.microphone_icon {
+  height: 24px;
+  width: 24px;
+  background-image: url("../../../public/icons/icons9.png");
+  background-position: 0px -100px;
+  background-size: auto;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+.addPhoto_icon {
+  background-image: url("../../../public/icons/icons7.png");
+  background-position: -25px -292px;
+  background-size: auto;
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+.phone_icon {
+  background-image: url("../../../public/icons/icons7.png");
+  background-position: -25px -271px;
+  background-size: auto;
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+  display: inline-block;
+  filter: invert(20%);
 }
 .camera_filled_icon {
   background-image: url("../../../public/icons/icons25.png");
@@ -565,6 +560,62 @@
   background-repeat: no-repeat;
   display: inline-block;
   filter: invert(10%);
+}
+.upload_icon {
+  background-image: url(../../../public/icons/icons35.png);
+  background-position: 0px -126px;
+  background-size: auto;
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+  display: inline-block;
+  filter: invert(10%);
+}
+.lifeEvent_icon {
+  background-image: url(../../../public/icons/icons34.png);
+  background-position: -25px -250px;
+  background-size: auto;
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+
+.plus_icon {
+  background-image: url(../../../public/icons/icons22.png);
+  background-position: 0px -1341px;
+  background-size: auto;
+  width: 16px;
+  height: 16px;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+.frame_icon {
+  background-image: url(../../../public/icons/icons31.png);
+  background-position: 0px -130px;
+  background-size: auto;
+  width: 16px;
+  height: 16px;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+.minus_icon {
+  background-image: url(../../../public/icons/icons33.png);
+  background-position: 0px -50px;
+  background-size: auto;
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+.plus_icon {
+  background-image: url(../../../public/icons/icons32.png);
+  background-position: 0px -25px;
+  background-size: auto;
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+  display: inline-block;
 }
 .crop_icon {
   background-image: url(../../../public/icons/icons31.png);
@@ -593,26 +644,7 @@
   background-repeat: no-repeat;
   display: inline-block;
 }
-.edit_icon {
-  background-image: url("../../../public/icons/icons2.png");
-  background-position: 0px -610px;
-  background-size: auto;
-  width: 20px;
-  height: 20px;
-  background-repeat: no-repeat;
-  display: inline-block;
-  -webkit-filter: invert(40%);
-}
-.turnOfNotifications_icon {
-  background-image: url("../../../public/icons/icons3.png");
-  background-position: 0px -130px;
-  background-size: auto;
-  width: 20px;
-  height: 20px;
-  background-repeat: no-repeat;
-  display: inline-block;
-}
-.turnOnNotifications_icon {
+.turnOnNotification_icon {
   background-image: url(../../../public/icons/icons29.png);
   background-position: 0px -324px;
   background-size: auto;
@@ -690,39 +722,27 @@
 }
 .info_icon {
   background-image: url(../../../public/icons/icons36.png);
-  background-position: 0px -60px;
   background-size: auto;
-  width: 12px;
-  height: 12px;
   background-repeat: no-repeat;
   display: inline-block;
+  width: 12px;
+  height: 12px;
+  background-position: 0 -60px;
 }
 .adChoices_icon {
   background-image: url(../../../public/icons/icons37.png);
-  background-position: 0px -60px;
   background-size: auto;
-  width: 16px;
-  height: 16px;
   background-repeat: no-repeat;
   display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-position: 0 -60px;
 }
-
-/*  yi krna ha dubra */
-.home_icon {
-  background-image: url(../../../public/icons/icons37.png);
-  background-position: 0px -60px;
+.error_icon {
+  background-image: url(../../../public/icons/icons10.png);
   background-size: auto;
-  width: 16px;
-  height: 16px;
   background-repeat: no-repeat;
   display: inline-block;
-}
-.send_icon {
-  background-image: url(../../../public/icons/icons37.png);
-  background-position: 0px -60px;
-  background-size: auto;
-  width: 16px;
-  height: 16px;
-  background-repeat: no-repeat;
-  display: inline-block;
+  height: 21px;
+  width: 21px;
 }
