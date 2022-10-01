@@ -16,7 +16,7 @@ exports.validateLength = (text, min, max) => {
 //   do {
 //     let check = await User.findOne({ username });
 //     if (check) {
-//       username += (new Date() * Math.random()).toString().substring(0, 5);
+//       username += (+new Date() * Math.random()).toString().substring(0, 5);
 //     } else {
 //       a = true;
 //     }
